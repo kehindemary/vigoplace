@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.042" height="19.042" viewBox="0 0 19.042 19.042">
+  <g id="faceid" transform="translate(-135 -658)">
+    <rect id="Rectangle_927" data-name="Rectangle 927" width="18.041" height="18.041" rx="2" transform="translate(135.501 658.501)" fill="#dcffd5"/>
+    <path id="Path_2649" data-name="Path 2649" d="M.5,54.28v4.01a1.943,1.943,0,0,0,1.944,1.942h4.01" transform="translate(135 616.309)" fill="none" stroke="#28e808" stroke-width="1"/>
+    <path id="Path_2650" data-name="Path 2650" d="M60.233,54.28v4.01a1.943,1.943,0,0,1-1.942,1.942H54.28" transform="translate(93.309 616.309)" fill="#dcffd5" stroke="#28e808" stroke-width="1"/>
+    <path id="Path_2651" data-name="Path 2651" d="M.5,6.455V2.442A1.943,1.943,0,0,1,2.444.5h4.01" transform="translate(135 658)" fill="none" stroke="#28e808" stroke-width="1"/>
+    <path id="Path_2652" data-name="Path 2652" d="M54.28.5h4.01a1.943,1.943,0,0,1,1.942,1.942V6.455" transform="translate(93.309 658)" fill="none" stroke="#28e808" stroke-width="1"/>
+    <g id="Group_2299" data-name="Group 2299" transform="translate(140.966 664.02)">
+      <path id="Path_2653" data-name="Path 2653" d="M20.35,50.23a3.535,3.535,0,0,0,6.478.126" transform="translate(-19.946 -45.206)" fill="none" stroke="#28e808" stroke-width="1"/>
+      <path id="Path_2654" data-name="Path 2654" d="M35.78,17.9v2.749a1.251,1.251,0,0,0,.78,1.159l.754.306" transform="translate(-32.978 -17.896)" fill="none" stroke="#28e808" stroke-width="1"/>
+      <line id="Line_29" data-name="Line 29" y2="2.116" transform="translate(0 0)" fill="none" stroke="#28e808" stroke-width="1"/>
+      <line id="Line_30" data-name="Line 30" y2="2.116" transform="translate(7.111 0)" fill="none" stroke="#28e808" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

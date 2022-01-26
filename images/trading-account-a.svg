@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.573" height="59.667" viewBox="0 0 141.573 59.667">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#28e808" stop-opacity="0.412"/>
+      <stop offset="1" stop-color="#28e808" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="trading-account-a" transform="translate(-42.741 -420.333)">
+    <path id="Path_2455" data-name="Path 2455" d="M3311.563,3711.878l9.5,5.749,3.041-5.749,3.421,6.844,6.461,1.916,2.28,3.011,3.421-1.368,3.04,1.368,9.122,3.011,1.9,2.464,15.2-15.878,7.6-6.022,11.021-2.464,22.043-10.677,8.361,9.581,10.261-7.939,4.561,2.19,2.66-2.19h3.041l2.28-1.642h2.28l9.5-7.665V3745.7h-141Z" transform="translate(-3268.563 -3265.697)" opacity="0.3" fill="url(#linear-gradient)"/>
+    <path id="Path_2456" data-name="Path 2456" d="M3311.563,3711.878l9.5,5.749,3.041-5.749,3.421,6.844,6.461,1.916,2.28,3.011,3.421-1.368,3.04,1.368,9.122,3.011,1.9,2.464,15.2-15.878,7.6-6.022,11.021-2.464,22.043-10.677,8.361,9.581,10.261-7.939,4.561,2.19,2.66-2.19h3.041l2.28-1.642h2.28l9.5-7.665" transform="translate(-3268.563 -3265.697)" fill="none" stroke="#28e808" stroke-width="1"/>
+  </g>
+</svg>

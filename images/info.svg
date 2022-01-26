@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="info" transform="translate(-173.668 -350.668)">
+    <g id="Ellipse_77" data-name="Ellipse 77" transform="translate(173.668 350.668)" fill="#e3e5e8" stroke="#72777b" stroke-width="1">
+      <circle cx="7" cy="7" r="7" stroke="none"/>
+      <circle cx="7" cy="7" r="6.5" fill="none"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M.277,3.766a.674.674,0,0,1,0-.936.635.635,0,0,1,.468-.189.625.625,0,0,1,.459.189.674.674,0,0,1,0,.936.625.625,0,0,1-.459.189A.635.635,0,0,1,.277,3.766ZM.286,2,.169-2.362H1.258L1.141,2Z" transform="translate(179.58 357.031)" fill="#72777b"/>
+  </g>
+</svg>

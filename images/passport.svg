@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="74" viewBox="0 0 74 74">
+  <g id="passport" transform="translate(-30 -325)">
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="37" cy="37" r="37" transform="translate(30 325)" fill="#262626"/>
+    <g id="Group_1789" data-name="Group 1789" transform="translate(5.995 318.99)">
+      <line id="Line_1" data-name="Line 1" x2="9.188" transform="translate(54.196 55.338)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+      <g id="Group_1788" data-name="Group 1788" transform="translate(45.669 25.261)">
+        <path id="Rectangle_805" data-name="Rectangle 805" d="M1,0H23.243a3,3,0,0,1,3,3V32.5a3,3,0,0,1-3,3H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" fill="none" stroke="#28e808" stroke-width="1.5"/>
+        <path id="Rectangle_806" data-name="Rectangle 806" d="M1,0H26.672a4,4,0,0,1,4,4V31.5a4,4,0,0,1-4,4H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" fill="none" stroke="#28e808" stroke-width="1.5"/>
+        <line id="Line_2" data-name="Line 2" x2="14.344" transform="translate(5.949 26.177)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+        <circle id="Ellipse_65" data-name="Ellipse 65" cx="7.8" cy="7.8" r="7.8" transform="translate(5.321 5.156)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+        <ellipse id="Ellipse_66" data-name="Ellipse 66" cx="3.933" cy="7.8" rx="3.933" ry="7.8" transform="translate(9.188 5.156)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+        <path id="Path_2151" data-name="Path 2151" d="M136.7,61.064V76.655" transform="translate(-123.579 -55.903)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+        <g id="Group_1787" data-name="Group 1787" transform="translate(5.321 9.232)">
+          <path id="Path_2152" data-name="Path 2152" d="M91.535,89.312h13.02" transform="translate(-90.245 -89.312)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+          <path id="Path_2153" data-name="Path 2153" d="M82.585,115.144h15.6" transform="translate(-82.585 -111.42)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+          <path id="Path_2154" data-name="Path 2154" d="M91.535,140.975h13.02" transform="translate(-90.245 -133.528)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

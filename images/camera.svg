@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.82" height="16.398" viewBox="0 0 19.82 16.398">
+  <g id="camera" transform="translate(0.5 0.5)">
+    <path id="Path_2640" data-name="Path 2640" d="M20.32,18.187A1.711,1.711,0,0,1,18.609,19.9H3.211A1.711,1.711,0,0,1,1.5,18.187V8.777A1.711,1.711,0,0,1,3.211,7.066H6.633L8.344,4.5h5.133l1.711,2.566h3.422A1.711,1.711,0,0,1,20.32,8.777Z" transform="translate(-1.5 -4.5)" fill="#dcffd5" stroke="#28e808" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_2641" data-name="Path 2641" d="M18.844,16.922A3.422,3.422,0,1,1,15.422,13.5,3.422,3.422,0,0,1,18.844,16.922Z" transform="translate(-6.012 -8.367)" fill="none" stroke="#28e808" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

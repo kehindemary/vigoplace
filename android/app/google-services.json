@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025854471749",
+    "project_id": "vigoplaceproject",
+    "storage_bucket": "vigoplaceproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025854471749:android:6724f0182e324868792d2c",
+        "android_client_info": {
+          "package_name": "com.example.vigoplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025854471749-8ksniuuoag6v3hbej87vrj3um24f3o5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVAGXyyhW7cn2wR2bzMqPoAkiFrOT0zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025854471749-8ksniuuoag6v3hbej87vrj3um24f3o5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
